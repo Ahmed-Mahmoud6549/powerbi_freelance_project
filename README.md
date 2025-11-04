@@ -38,14 +38,18 @@ It focuses on cleaning, modeling, and visualizing Excel-based data to support da
 </p>
 
 ---
-
 ---
+
+
+
+
 
 ## 🚀 Tools Used
 - **Power BI**
 - **Power Query**
 - **Excel**
 - **SQL**
+- **Dax**
 
 ---
 
