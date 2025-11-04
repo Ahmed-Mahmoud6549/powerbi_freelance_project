@@ -10,7 +10,10 @@ It focuses on cleaning, modeling, and visualizing Excel-based data to support da
 ## 🔍 Dashboard Preview
 
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15693d59-87bd-41ea-b06d-d4ebf838d9ea" width="49%">
+  <img src="https://github.com/user-attachments/assets/3491840e-18aa-4340-9dd3-1aece4649ad5" width="49%">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0855dec-2342-4fcd-b1aa-7af12102d834" width="49%">
@@ -27,10 +30,7 @@ It focuses on cleaning, modeling, and visualizing Excel-based data to support da
   <img src="https://github.com/user-attachments/assets/602434df-fcad-4d10-804a-6c05b70b6211" width="49%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/15693d59-87bd-41ea-b06d-d4ebf838d9ea" width="49%">
-  <img src="https://github.com/user-attachments/assets/3491840e-18aa-4340-9dd3-1aece4649ad5" width="49%">
-</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/171eb278-891e-4ccf-90a0-51b490ec6329" width="49%">
